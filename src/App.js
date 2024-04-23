@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import React,{useEffect, useState} from 'react';
 import {AiOutlineDelete, AiOutlineEdit} from 'react-icons/ai';
